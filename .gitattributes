@@ -1,0 +1,4 @@
+Game-DevFile/Assets/Download/* filter=lfs diff=lfs merge=lfs -text
+Game-DevFile/Library/*
+Game-DevFile/Assets/Download/Cave/LowPolyCaverns/Maps/Cavern_Demo-01/LightingData.asset filter=lfs diff=lfs merge=lfs -text
+Game-DevFile/Assets/Download/Cave/LowPolyCaverns/Pipeline_Packages/LowPolyCaverns-URP.unitypackage filter=lfs diff=lfs merge=lfs -text
